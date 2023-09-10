@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/1325882158/es/vector/fondo-degradado-rojo-ilustraci%C3%B3n-vectorial-eps-10.jpg?s=612x612&w=0&k=20&c=ji151PzEbPep1DcSnE1zfbTOqaFApA5PrbmF9hgqZFs=");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{font-weight: bold; }
+.contenedorDeTo{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
